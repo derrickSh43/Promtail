@@ -1,6 +1,6 @@
 # Promtail
 Promtail userdata
-Here's a detailed **README** for the script:
+
 
 
 
