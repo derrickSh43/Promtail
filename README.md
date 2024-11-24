@@ -1,0 +1,2 @@
+# Promtail
+Promtail userdata
